@@ -23,7 +23,7 @@ I am also currently avaiable to work and I can immediately can bring a lot of qu
 ## 🔭 I’m currently learning:
 :snake:          **Python**  
 :sunglasses:     **JavaScript**
-:table:          **Tableau**
+:chart:          **Tableau**
 :loop:           **Analytics**
 
 ## ⚡Let's keep in touch! Follow me on Github and I will follow you back!
