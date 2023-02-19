@@ -24,5 +24,5 @@ I am also currently avaiable to work and I can immediately can bring a lot of qu
 :snake:          **Python**  
 :sunglasses:     **JavaScript**
 
-## ⚡Let's keep in touch! Follow me on Gthub and I will follow you back!
+## ⚡Let's keep in touch! Follow me on Github and I will follow you back!
 
