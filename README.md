@@ -1,6 +1,6 @@
-### Hi there 
+## Hi there 
 
-I am _Leon Czarlinski_ 👋
+### I am _Leon Czarlinski_ 👋
 
 I am a professional with 9 years of experience in marketing, communication, branding and sales campaigns. I have experience managing squads using agile methodology.
 
