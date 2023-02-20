@@ -1,4 +1,4 @@
-## Hi there 
+## Hello there!
 
 ### I am _Leon Czarlinski_ 👋
 
