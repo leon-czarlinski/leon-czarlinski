@@ -22,7 +22,7 @@ I am also currently avaiable to work and I can immediately can bring a lot of qu
 
 ## 🔭 I’m currently learning:
 :snake:          **Python**  
-:sunglasses:     **JavaScript**
+:sunglasses:     **JavaScript**  
 :chart:          **Tableau**  
 :loop:           **Analytics**
 
