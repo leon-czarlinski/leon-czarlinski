@@ -18,7 +18,7 @@ I am also currently available to work and I can immediately can bring a lot of q
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/leon-czarlinski/)
-- [My personal portfolio](https://leonvictor104.github.io/) 
+- [My personal portfolio](https://leon-czarlinski.github.io) 
 
 ## 🔭 I’m currently learning:
 :snake:          **Python**  
