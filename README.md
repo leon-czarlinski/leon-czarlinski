@@ -20,19 +20,19 @@ I am also currently available to work and I can immediately can bring a lot of q
 
 <h2 align="left">How to reach me</h2>
 <p align="left">
-<a href="https://leon-czarlinski.github.io" target="blank"><img align="center" src="https://github.com/leon-czarlinski/leon-czarlinski/blob/main/github-icon.svg" alt="webpage" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/leon-czarlinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/linkedin-icon.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://www.kaggle.com/leonczarlinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/kaggle-icon.svg" alt="kaggle" height="40" width="40" /></a>
-<a href="https://medium.com/@leon-czarlinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/medium-white-icon.svg" alt="medium" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/leon-czarlinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/linkedin-icon.svg" alt="linkedin" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/leonczarlinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/kaggle-icon.svg" alt="kaggle" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leon-czarlinski.github.io" target="blank"><img align="center" src="https://github.com/leon-czarlinski/leon-czarlinski/blob/main/github-icon.svg" alt="webpage" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com/@leon-czarlinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/medium-white-icon.svg" alt="medium" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://public.tableau.com/app/profile/leon8208/vizzes" target="blank"><img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/tableau-icon.svg" alt="tableau" height="40" width="40" /></a>
 </p>
 <br>
 
 <h2 align="left">I’m currently learning</h2>
 <p align="left">
- <img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/python-icon.svg" alt="python" height="30" width="40" />
- <img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/sql-server-icon.svg" alt="sql-server" height="30" width="40" />
- <img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/oracle-logo.svg" alt="oracle" height="30" width="40" />
+ <img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/python-icon.svg" alt="python" height="40" width="40" />&nbsp;&nbsp;&nbsp;
+ <img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/sql-server-icon.svg" alt="sql-server" height="40" width="40" />&nbsp;&nbsp;&nbsp;
+ <img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/oracle-logo.svg" alt="oracle" height="40" width="40" />
 </p>
 
 <h2 align="left">Let's keep in touch! Follow me on Github and I will follow you back!</h2>
