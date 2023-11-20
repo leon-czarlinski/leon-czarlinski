@@ -23,7 +23,7 @@ I am also currently available to work and I can immediately can bring a lot of q
 <a href="https://leon-czarlinski.github.io" target="blank"><img align="center" src="https://github.com/leon-czarlinski/leon-czarlinski/blob/main/github-icon.svg" alt="webpage" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/leon-czarlinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/linkedin-icon.svg" alt="linkedin" height="40" width="40" /></a>
 <a href="https://www.kaggle.com/leonczarlinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/kaggle-icon.svg" alt="kaggle" height="40" width="40" /></a>
-<a href="https://medium.com/@leon-czarlinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/medium-icon.svg" alt="medium" height="40" width="40" /></a>
+<a href="https://medium.com/@leon-czarlinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/medium-white-icon.svg" alt="medium" height="40" width="40" /></a>
 <a href="https://public.tableau.com/app/profile/leon8208/vizzes" target="blank"><img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/tableau-icon.svg" alt="tableau" height="40" width="40" /></a>
 </p>
 <br>
