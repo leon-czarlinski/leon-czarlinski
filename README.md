@@ -31,6 +31,7 @@ I am also currently available to work and I can immediately can bring a lot of q
 <h2 align="left">I’m currently learning</h2>
 <p align="left">
  <img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/python-icon.svg" alt="python" height="40" width="40" />&nbsp;&nbsp;&nbsp;
+ <img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/tableau-icon.svg" alt="python" height="40" width="40" />&nbsp;&nbsp;&nbsp;
  <img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/sql-server-icon.svg" alt="sql-server" height="40" width="40" />&nbsp;&nbsp;&nbsp;
  <img align="center" src="https://raw.githubusercontent.com/leon-czarlinski/leon-czarlinski/main/oracle-logo.svg" alt="oracle" height="40" width="40" />
 </p>
