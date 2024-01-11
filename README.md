@@ -1,9 +1,11 @@
 ![](Github_cover2.png)
 
 <p align="left">
-I am a professional with 9 years of experience in marketing, communication, branding and sales campaigns. I have experience managing squads using agile methodology.
+9-year track record successfully fostering relationships in cross-functional teams aligned to business strategy, and adding value to the customer.
 
-Currently I am pursuing a 2-years course to gain knowledge in IT, such as project management, data analytics and web programming. So, coding is something new to me and I am still in the learning process, but you will find some of my portfolio.
+Passionate about digital transformation and leading high-value projects with a data-driven and problem-solving mindset.
+
+Currently pursuing a 2-years course to gain knowledge in IT, such as project management and data analytics.
 
 </p>
 
