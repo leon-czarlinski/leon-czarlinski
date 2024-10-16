@@ -5,7 +5,9 @@
 
 Passionate about digital transformation and leading high-value projects with a data-driven and problem-solving mindset.
 
-Currently pursuing a 2-years course to gain knowledge in IT, such as project management and data analytics.
+Information Technology Solutions postgraduate at Humber Polytechnic
+
+Google Data Analytics Certificate
 
 </p>
 
